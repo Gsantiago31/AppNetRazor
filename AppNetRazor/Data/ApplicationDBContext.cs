@@ -12,6 +12,6 @@ namespace AppNetRazor.Data
         }
 
 
-        public DbSet<Course> Courses { get; set; }
+        public DbSet<Curso> Curso { get; set; }
     }
 }

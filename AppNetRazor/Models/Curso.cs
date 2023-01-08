@@ -2,7 +2,7 @@
 
 namespace AppNetRazor.Models
 {
-    public class Course
+    public class Curso
     {
         [Key]
         public int Id { get; set; }
